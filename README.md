@@ -4,12 +4,12 @@
 
 
 # DIS model
-This repository contains an updated version of DIS model for Semantic Segmentation , the new changes include the fallowing:
+This repository contains DIS model for Semantic Segmentation with few changes as fallowing:
 * update python version to 3.8
 * integrate mlflow 
 * integrate transfer learning
 * support multi GPUs training
-* remove cache generator (as some people,  including me,  don't want it )
+* remove cache generator
 
 ## 1. System info : 
 * Linux Ubuntu 20.04
